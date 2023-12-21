@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="sinif2_odev5.bankaHesabi" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAEoAhACAACACAAQAAAQAAAAEAAAAAAAAAEAEAA=</HashCode>
+      <FileName>bankaHesabi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.bankaKarti" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAgACAAAAAAAwAAAAAABAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>bankaKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.harcama" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAQAgAAAAAAACAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>harcama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.kart" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAgAAAIAAAAAgAAAAAAAAEAgAIAIAAAAAAAA=</HashCode>
+      <FileName>kart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.kisi" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABACAAAAAAgAECAAAEAACAAgAAAQAAAAAAAAAAABA=</HashCode>
+      <FileName>kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.KonsolUygulamasi" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIAAAgALAAACAAEABAAEyiAAAAAABCAIAgAAgAAAA=</HashCode>
+      <FileName>KonsolUygulamasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.krediKarti" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAAAAA4BQAAAAAkAACEAACAAAEAAAA=</HashCode>
+      <FileName>krediKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.menu" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAoAAQAAAAAAAAAAAQAEAAAAAAAAICAAIAAEAA=</HashCode>
+      <FileName>menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.Program" Collapsed="true">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBEAAgAAAAAAQEAAgAGAAAAAAAAAAAAAAABAgAgAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sinif2_odev5.sanalKart" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAAAAAAAgBABAAAAAAAAAAAgCAAAAAAA=</HashCode>
+      <FileName>sanalKart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
