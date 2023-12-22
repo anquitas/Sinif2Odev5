@@ -1,7 +1,0 @@
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\bin\Debug\sinif2-odev5.exe.config
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\bin\Debug\sinif2-odev5.exe
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\bin\Debug\sinif2-odev5.pdb
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\obj\Debug\sinif2-odev5.csproj.AssemblyReference.cache
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\obj\Debug\sinif2-odev5.csproj.CoreCompileInputs.cache
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\obj\Debug\sinif2-odev5.exe
-C:\Users\oguzs\Desktop\Yeni klasör\sinif2-odev5 - 221030210015 -oguz sahingoz\sinif2-odev5\sinif2-odev5\obj\Debug\sinif2-odev5.pdb
